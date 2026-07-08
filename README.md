@@ -1,2 +1,2 @@
 # GPU-tester
-https://mathisha-yumethcom.github.io/GPU-tester/
+https://mathisha-yumeth.github.io/GPU-tester/
